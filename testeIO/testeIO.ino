@@ -28,7 +28,6 @@ void loop() {
             Serial.println();
         }
     }
-    // Coloque um pequeno delay para dar tempo ao microcontrolador de realizar outras tarefas
     delay(10);
 }
 
